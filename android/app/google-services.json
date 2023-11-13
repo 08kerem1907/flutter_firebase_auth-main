@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "2293674574",
+    "firebase_url": "https://yasun-54630-default-rtdb.firebaseio.com",
+    "project_id": "yasun-54630",
+    "storage_bucket": "yasun-54630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2293674574:android:73834d41925b96b2c1091f",
+        "android_client_info": {
+          "package_name": "com.example.login_screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2293674574-45ukugc04jh1igu751ept4hne64blc3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_screen",
+            "certificate_hash": "a9b8fb8e4df1f3b238347debda1d4ae35afcd335"
+          }
+        },
+        {
+          "client_id": "2293674574-6hcp2dtko6m6hg7fkdmp2dph22ho8cm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-C2Nmj2pOTfAN9bVPT8Tb31ChQFAOSDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2293674574-6hcp2dtko6m6hg7fkdmp2dph22ho8cm5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "2293674574-s3ru2qfelbu9fu4gmco5dng26hae7jq9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginScreen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
