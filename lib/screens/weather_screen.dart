@@ -21,7 +21,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
             SizedBox(height: 66.0),
             // Şehir/İlçe Adı ve Güncellenme Tarihi
             Text(
-              'Ankara/',
+              'Ankara/Keçiören',
               style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
             ),
             Text('Güncellenme Tarihi: 12 Kasım 2023'),
