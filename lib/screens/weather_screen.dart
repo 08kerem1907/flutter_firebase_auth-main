@@ -24,7 +24,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
               'Ankara/Keçiören',
               style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
             ),
-            Text('Güncellenme Tarihi: 12 Kasım 2023'),
+            Text('Güncellenme Tarihi: 29 Kasım 2023'),
 
             // Hava Durumu
             // Burada internetten çekilen verilere göre hava durumu widget'ını ekleyebilirsiniz.
